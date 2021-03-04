@@ -1,6 +1,6 @@
 {
   "name": "@uniswap/v1-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An SDK for building applications on top of the Uniswap V1 protocol",
   "keywords": [
     "Uniswap",
